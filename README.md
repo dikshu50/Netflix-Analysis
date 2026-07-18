@@ -15,6 +15,7 @@ Release Trends: Identified peak years for content production and additions to th
 Genre Popularity: Categorized content by genre to understand user-preferred categories.
 
 4. Project Files
+   
 netflix_analysis.ipynb: Detailed Jupyter Notebook demonstrating the data cleaning and exploratory data analysis (EDA) process.
 
 netflix_dashboard.pbix: The final interactive Power BI dashboard featuring visual insights.
