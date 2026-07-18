@@ -1,10 +1,20 @@
 # Netflix-Analysis
-This project involves the analysis and visualization of Netflix content data.
+1. Project Overview
+This project focuses on analyzing the Netflix content dataset to uncover trends in content distribution, release patterns, and genre popularity. By leveraging data processing techniques, the project provides a comprehensive view of how Netflix's library has evolved over time.
 
-### Tools used:
-- **Python (Pandas)**: Used for data cleaning and preparation.
-- **Power BI**: Used for creating the interactive dashboard.
+2. Tools & Technologies
+Python (Pandas): Used for robust data cleaning, handling missing values, and preparing the dataset for analysis.
 
-### Project Files:
-- `netflix_analysis.ipynb`: The Jupyter Notebook containing the data cleaning code.
-- `netflix_dashboard.pbix`: The final Power BI dashboard file.
+Power BI: Used for building an interactive dashboard to visualize trends and content metrics.
+
+3. Key Findings (Insights)
+Content Distribution: Analyzed the ratio of movies versus TV shows in the catalog.
+
+Release Trends: Identified peak years for content production and additions to the platform.
+
+Genre Popularity: Categorized content by genre to understand user-preferred categories.
+
+4. Project Files
+netflix_analysis.ipynb: Detailed Jupyter Notebook demonstrating the data cleaning and exploratory data analysis (EDA) process.
+
+netflix_dashboard.pbix: The final interactive Power BI dashboard featuring visual insights.
